@@ -16,6 +16,6 @@ My primary research focus is on machine learning and deep learning, with a curre
 
 Previously, I obtained my bachelor's degree from UESTC and my master's degree from HUST.
 
-Recently News
+News
 ======
 - 05/2024: I started my summer research internship at Ant Group in Hangzhou.

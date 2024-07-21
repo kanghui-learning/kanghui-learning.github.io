@@ -20,5 +20,5 @@ News
 ======
 - 05/2024: I started my summer research internship at Ant Group in Hangzhou.
 - 08/2023: I became a part of Project Voyager at ByteDance, focusing research on AI4Bioinformatics.
-- 07/2022: I started my research internship at AI4Science Group of Bytedance in Beijing
+- 07/2022: I started my research internship at AI4Science Group of Bytedance in Beijing.
 

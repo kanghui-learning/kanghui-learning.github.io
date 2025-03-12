@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, University of Connecticut, 2024-Present
-* M.S. in Computer Science, Huazhong University of Science and Technology (HUST), 2020-2024
-* B.S. in Computer Science, University of Electronic Science and Technology of China (UESTC), 2016-2020
+* M.S. in Control Science and Engineering, Huazhong University of Science and Technology (HUST), 2020-2024
+* B.S. in Automation, University of Electronic Science and Technology of China (UESTC), 2016-2020
 
 Work & Research Experience
 ======

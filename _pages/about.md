@@ -27,7 +27,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 <i class="fas fa-book"></i> Publications
 ======
 - **TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**  
-  Kanghui Ning, Zijie Pan, Yu Liu, Yushan Jiang, James Y. Zhang, Kashif Rasul, Anderson Schneider, Lintao Ma, Yuriy Nevmyvaka, Dongjin Song  
+  **Kanghui Ning**, Zijie Pan, Yu Liu, Yushan Jiang, James Y. Zhang, Kashif Rasul, Anderson Schneider, Lintao Ma, Yuriy Nevmyvaka, Dongjin Song  
   arXiv preprint, 2025  
   [Paper](https://arxiv.org/abs/2503.07649)
 

@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
+I am a first-year Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
 
 My primary research focus is on machine learning and deep learning, with a current specialization in time series analysis. My additional research interests include:
 
+- Multi-modal time series analysis
 - Large Language Models (LLMs) for time series analysis
 - Graph representation learning and its application in healthcare and biomedical data
 

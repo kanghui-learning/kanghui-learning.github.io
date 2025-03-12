@@ -16,9 +16,22 @@ My primary research focus is on machine learning and deep learning, with a curre
 
 Previously, I obtained my bachelor's degree from UESTC and my master's degree from HUST.
 
-News
+<i class="fas fa-newspaper"></i> News
 ======
+- 08/2024: I joined UConn DSIS Lab and received the UConn CSE Graduate Fellowship.
 - 05/2024: I started my summer research internship at Ant Group in Hangzhou.
 - 08/2023: I became a part of Project Voyager at ByteDance, focusing research on AI4Bioinformatics.
 - 07/2022: I started my research internship at AI4Science Group of Bytedance in Beijing.
+
+<i class="fas fa-book"></i> Publications
+======
+- **TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**  
+  Kanghui Ning, Zijie Pan, Yu Liu, Yushan Jiang, James Y. Zhang, Kashif Rasul, Anderson Schneider, Lintao Ma, Yuriy Nevmyvaka, Dongjin Song  
+  arXiv preprint, 2025  
+  [Paper](https://arxiv.org/abs/2503.07649)
+
+---
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kanghui-learning.kanghui-learning.github.io" alt="visitors">
+</div>
 

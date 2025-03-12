@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "<i class='fas fa-user'></i> About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ My primary research focus is on machine learning and deep learning, with a curre
 - Large Language Models (LLMs) for time series analysis
 - Graph representation learning and its application in healthcare and biomedical data
 
-Previously, I obtained my bachelor's degree from UESTC and my master's degree from HUST.
+Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn/) and my master's degree from [HUST](http://english.hust.edu.cn/).
 
 <i class="fas fa-newspaper"></i> News
 ======

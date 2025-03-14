@@ -35,10 +35,12 @@ Work & Research Experience
 
 Publications
 ======
+<!-- Temporarily hidden
 * **TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**
   * **Kanghui Ning**, Zijie Pan, Yu Liu, Yushan Jiang, James Y. Zhang, Kashif Rasul, Anderson Schneider, Lintao Ma, Yuriy Nevmyvaka, Dongjin Song
   * arXiv preprint, 2025
   * [Paper](https://arxiv.org/abs/2503.07649)
+-->
 
 Honors & Awards
 ======

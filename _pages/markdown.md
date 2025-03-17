@@ -1,11 +1,18 @@
 ---
+layout: archive
+title: "Guide"
 permalink: /markdown/
-title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+<div style="text-align: center; margin: 50px 0;">
+  <p style="font-style: italic; color: #666;">
+    Future guides and resources will be shared here. Stay tuned for helpful content!
+  </p>
+</div>
 
 ## Locations of key files/directories
 

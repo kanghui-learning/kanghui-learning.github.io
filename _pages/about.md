@@ -33,6 +33,12 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
   [Paper](https://arxiv.org/abs/2503.07649)
 -->
 
+* Jiang, Y., **Ning, K.**, Pan, Z., Shen, X., Ni, J., Yu, W., Schneider, A., Chen, H., Nevmyvaka, Y., & Song, D. (2025). Multi-modal Time Series Analysis: A Tutorial and Survey. arXiv preprint arXiv:2503.13709.
+
+## Contact
+
+Feel free to reach out to me at [kanghui.ning@uconn.edu](mailto:kanghui.ning@uconn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/kanghui-ning/).
+
 ---
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kanghui-learning.kanghui-learning.github.io" alt="visitors">

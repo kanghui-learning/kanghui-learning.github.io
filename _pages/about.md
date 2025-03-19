@@ -42,7 +42,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 
 ## Contact
 
-Feel free to reach out to me at [kanghui.ning@uconn.edu](mailto:kanghui.ning@uconn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/kanghui-ning/).
+Feel free to reach out to me at [kanghui.ning@uconn.edu](mailto:kanghui.ning@uconn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/kanghui-ning-ab9419244/).
 
 ---
 <div align="center">

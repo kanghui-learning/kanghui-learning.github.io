@@ -9,6 +9,4 @@ paperurl: 'https://arxiv.org/abs/2503.13709'
 citation: 'Jiang, Y., Ning, K., Pan, Z., Shen, X., Ni, J., Yu, W., Schneider, A., Chen, H., Nevmyvaka, Y., & Song, D. (2025). Multi-modal Time Series Analysis: A Tutorial and Survey. arXiv preprint arXiv:2503.13709.'
 ---
 
-[Download paper here](https://arxiv.org/abs/2503.13709)
-
 Recommended citation: Jiang, Y., Ning, K., Pan, Z., Shen, X., Ni, J., Yu, W., Schneider, A., Chen, H., Nevmyvaka, Y., & Song, D. (2025). Multi-modal Time Series Analysis: A Tutorial and Survey. arXiv preprint arXiv:2503.13709. 

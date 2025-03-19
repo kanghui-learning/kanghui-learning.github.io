@@ -26,6 +26,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 
 <i class="fas fa-book"></i> Publications
 ======
+(* indicates equal contribution)
 <!-- Temporarily hidden
 - **TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**  
   **Kanghui Ning**, Zijie Pan, Yu Liu, Yushan Jiang, James Y. Zhang, Kashif Rasul, Anderson Schneider, Lintao Ma, Yuriy Nevmyvaka, Dongjin Song  
@@ -33,7 +34,10 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
   [Paper](https://arxiv.org/abs/2503.07649)
 -->
 
-* Jiang, Y., **Ning, K.**, Pan, Z., Shen, X., Ni, J., Yu, W., Schneider, A., Chen, H., Nevmyvaka, Y., & Song, D. (2025). Multi-modal Time Series Analysis: A Tutorial and Survey. arXiv preprint arXiv:2503.13709.
+- **Multi-modal Time Series Analysis: A Tutorial and Survey**  
+  Yushan Jiang.*, **Kanghui Ning.***, Zijie Pan.*, Xuyang Shen, Jingchao Ni, Wenchao Yu, Anderson Schneider, Haifeng Chen, Yuriy Nevmyvaka, & Dongjin Song  
+  arXiv preprint, 2025  
+  [Paper](https://arxiv.org/abs/2503.13709) [[GitHub]](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
 
 ## Contact
 

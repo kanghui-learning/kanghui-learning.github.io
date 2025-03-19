@@ -35,38 +35,15 @@ Work & Research Experience
 
 Publications
 ======
+(* indicates equal contribution)
 <!-- Temporarily hidden
 * **TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**
   * **Kanghui Ning**, Zijie Pan, Yu Liu, Yushan Jiang, James Y. Zhang, Kashif Rasul, Anderson Schneider, Lintao Ma, Yuriy Nevmyvaka, Dongjin Song
   * arXiv preprint, 2025
   * [Paper](https://arxiv.org/abs/2503.07649)
 -->
+* Jiang, Y.*, **Ning, K.***, Pan, Z.*, Shen, X., Ni, J., Yu, W., Schneider, A., Chen, H., Nevmyvaka, Y., & Song, D. (2025). Multi-modal Time Series Analysis: A Tutorial and Survey. arXiv preprint arXiv:2503.13709. [[GitHub]](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
 
 Honors & Awards
 ======
 * UConn CSE Graduate Fellowship, 2024
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

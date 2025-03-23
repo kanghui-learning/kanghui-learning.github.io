@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kanghui Ning's Homepage"
-title_separator          : "-"
+title                    : "Kanghui Ning - Ph.D. Student in Computer Science"
+title_separator          : "|"
 name                     : &name "Kanghui Ning"
-description              : &description "Ph.D. Student in Computer Science, University of Connecticut"
-url                      : https://kanghui-learning.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Ph.D. Student in Computer Science at University of Connecticut, specializing in machine learning and time series analysis"
+url                      : https://kanghui-learning.github.io
+baseurl                  : ""
 repository               : "kanghui-learning/kanghui-learning.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -113,8 +113,8 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : "your-google-site-verification-code"  # 需要替换为你的验证码
+bing_site_verification   : "your-bing-site-verification-code"    # 需要替换为你的验证码
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -126,13 +126,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "kanghui.jpg"  # 使用你的头像作为默认社交分享图片
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Kanghui Ning
+  links:
+    - https://scholar.google.com/citations?user=xlX4a5QAAAAJ&hl=en
+    - https://github.com/kanghui-learning
+    - https://www.linkedin.com/in/kanghui-ning-ab9419244/
 
 
 # Analytics

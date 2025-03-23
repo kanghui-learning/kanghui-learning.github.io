@@ -45,7 +45,14 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 Feel free to reach out to me at [kanghui.ning@uconn.edu](mailto:kanghui.ning@uconn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/kanghui-ning-ab9419244/).
 
 ---
+<!-- Temporarily hidden visitor counter
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kanghui-learning.kanghui-learning.github.io" alt="visitors">
+</div>
+-->
+
+<!-- Clustrmaps -->
+<div align="center">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=aAZokZZv-XBXNoxuh7eMpn_lhRpDACPFpXTF2tWIEPA&cl=ffffff&w=a"></script>
 </div>
 

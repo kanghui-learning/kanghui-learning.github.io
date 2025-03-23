@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kanghui Ning - Ph.D. Student in Computer Science"
+title                    : "Kanghui Ning"
 title_separator          : "|"
 name                     : &name "Kanghui Ning"
 description              : &description "Ph.D. Student in Computer Science at University of Connecticut, specializing in machine learning and time series analysis"

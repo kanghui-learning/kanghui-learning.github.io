@@ -31,7 +31,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 - **TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**  
   **Kanghui Ning**, Zijie Pan, Yu Liu, Yushan Jiang, James Y. Zhang, Kashif Rasul, Anderson Schneider, Lintao Ma, Yuriy Nevmyvaka, Dongjin Song  
   arXiv preprint, 2025  
-  <i class="fas fa-file-alt"></i> [Paper](https://arxiv.org/abs/2503.07649)
+  <i class="fas fa-file-alt"></i> [Paper](https://arxiv.org/abs/2503.07649)  <i class="fab fa-github"></i> [GitHub coming soon](https://github.com/kanghui-learning)
 
 
 - **Multi-modal Time Series Analysis: A Tutorial and Survey**  

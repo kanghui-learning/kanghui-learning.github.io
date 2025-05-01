@@ -20,9 +20,9 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 <i class="fas fa-newspaper"></i> News
 ======
 - 08/2024: I joined UConn DSIS Lab and received the UConn CSE Graduate Fellowship.
-- 05/2024: I started my summer research internship at <img src="/images/ant.jpeg" alt="Ant Group" style="height: 1em; vertical-align: middle;"> [Ant Group](https://www.antgroup.com/) in Hangzhou.
-- 08/2023: I became a part of Project Voyager at <img src="/images/bytedance.jpg" alt="ByteDance" style="height: 1em; vertical-align: middle;"> [ByteDance](https://www.bytedance.com/) in Beijing, focusing research on AI4Bioinformatics.
-- 07/2022: I started my research internship at AI4Science Group of <img src="/images/bytedance.jpg" alt="ByteDance" style="height: 1em; vertical-align: middle;"> [ByteDance](https://www.bytedance.com/) in Beijing.
+- 05/2024: I started my summer research internship at <img src="/images/ant.jpeg" alt="Ant Group" style="height: 1.2em; vertical-align: middle;"> [Ant Group](https://www.antgroup.com/) in Hangzhou.
+- 08/2023: I became a part of Project Voyager at <img src="/images/bytedance.jpg" alt="ByteDance" style="height: 1.2em; vertical-align: middle;"> [ByteDance](https://www.bytedance.com/) in Beijing, focusing research on AI4Bioinformatics.
+- 07/2022: I started my research internship at AI4Science Group of <img src="/images/bytedance.jpg" alt="ByteDance" style="height: 1.2em; vertical-align: middle;"> [ByteDance](https://www.bytedance.com/) in Beijing.
 
 <i class="fas fa-book"></i> Publications
 ======

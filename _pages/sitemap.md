@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "<i class='fas fa-sitemap'></i> Sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
@@ -9,29 +9,35 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
+## Main Pages
+
+* [Home]({{ base_path }}/)
+* [Publications]({{ base_path }}/publications/)
+* [CV]({{ base_path }}/cv/)
+* [Talks]({{ base_path }}/talks/)
+* [Teaching]({{ base_path }}/teaching/)
+* [Guide]({{ base_path }}/guide/)
+
+## Recent Publications
+
+{% for post in site.publications reversed %}
+{% if post.path contains "ts-rag" or post.path contains "multi-modal" %}
+* {{ post.title }} - *{{ post.venue }}*
+{% endif %}
 {% endfor %}
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
+## Recent Talks
+
+{% for post in site.talks reversed limit:5 %}
+{% if post.title %}
+* {{ post.title }}
+{% endif %}
 {% endfor %}
 
-{% capture written_label %}'None'{% endcapture %}
+## Recent Teaching
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
+{% for post in site.teaching reversed limit:5 %}
+{% if post.title %}
+* {{ post.title }}
+{% endif %}
 {% endfor %}

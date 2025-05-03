@@ -9,11 +9,11 @@ redirect_from:
 
 Kanghui Ning is a first-year Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
 
-My primary research focus is on machine learning and deep learning, with a current specialization in time series analysis. My additional research interests include:
+My primary research focuses on machine learning and deep learning, with a current emphasis on time series analysis. I am particularly interested in:
 
 - Multi-modal time series analysis
 - Large Language Models (LLMs) for time series analysis
-- Graph representation learning and its application in healthcare and biomedical data
+- Graph representation learning for modeling temporal data in healthcare and biomedical domains
 
 Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn/) and my master's degree from [HUST](http://english.hust.edu.cn/).
 

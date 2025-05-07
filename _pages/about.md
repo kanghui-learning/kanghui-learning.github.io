@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Kanghui Ning is a first-year Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
+I'm a first-year Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
 
 My primary research goal is to **build reliable and interpretable AI systems**. Currently, I focus on **AI for time series analysis**, with particular interests in:
 
@@ -22,6 +22,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 
 <i class="fas fa-newspaper"></i> News
 ======
+- 05/2025: Our tutorial "**Multi-modal Time Series Analysis: A Tutorial and Survey**" was accepted by [KDD 2025](https://kdd2025.kdd.org/)!
 - 08/2024: I joined [UConn DSIS Lab](https://github.com/UConn-DSIS) and received the UConn CSE Graduate Fellowship.
 - 05/2024: I started my summer research internship at <img src="/images/ant.jpeg" alt="Ant Group" style="height: 1.1em; vertical-align: middle;"> [Ant Group](https://www.antgroup.com/) in Hangzhou.
 - 08/2023: I became a part of Project Voyager at <img src="/images/bytedance.jpg" alt="ByteDance" style="height: 1.2em; vertical-align: middle;"> [ByteDance](https://www.bytedance.com/) in Beijing, focusing research on AI4Bioinformatics.
@@ -39,7 +40,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 
 - **Multi-modal Time Series Analysis: A Tutorial and Survey**  
   Yushan Jiang.<sup>*</sup>, **Kanghui Ning.**<sup>*</sup>, Zijie Pan.<sup>*</sup>, Xuyang Shen, Jingchao Ni, Wenchao Yu, Anderson Schneider, Haifeng Chen, Yuriy Nevmyvaka, & Dongjin Song  
-  arXiv preprint, 2025  
+  KDD, 2025  
   <i class="fas fa-file-alt"></i> [Paper](https://arxiv.org/abs/2503.13709) <i class="fab fa-github"></i> [GitHub](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
 
 ## Contact

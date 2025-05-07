@@ -16,5 +16,5 @@ arXiv preprint, 2025
 
 ## Multi-modal Time Series Analysis: A Tutorial and Survey
 Yushan Jiang.<sup>*</sup>, **Kanghui Ning.**<sup>*</sup>, Zijie Pan.<sup>*</sup>, Xuyang Shen, Jingchao Ni, Wenchao Yu, Anderson Schneider, Haifeng Chen, Yuriy Nevmyvaka, & Dongjin Song  
-arXiv preprint, 2025  
+KDD, 2025  
 <i class="fas fa-file-alt"></i> [Paper](https://arxiv.org/abs/2503.13709) <i class="fab fa-github"></i> [GitHub](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)

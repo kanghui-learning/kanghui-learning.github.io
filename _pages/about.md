@@ -22,6 +22,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 
 <i class="fas fa-newspaper"></i> News
 ======
+- 05/2025: I was honored to receive the Predoctoral Honorable Mention from the School of Computing at UConn!
 - 05/2025: Our tutorial [Multi-modal Time Series Analysis: A Tutorial and Survey](https://arxiv.org/abs/2503.13709) was accepted by [KDD 2025](https://kdd2025.kdd.org/)!
 - 08/2024: I joined [UConn DSIS Lab](https://github.com/UConn-DSIS) and received the UConn CSE Graduate Fellowship.
 - 05/2024: I started my summer research internship at <img src="/images/ant.jpeg" alt="Ant Group" style="height: 1.1em; vertical-align: middle;"> [Ant Group](https://www.antgroup.com/) in Hangzhou.

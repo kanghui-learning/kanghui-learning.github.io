@@ -11,10 +11,11 @@ I'm a first-year Ph.D. student in the School of Computing at the University of C
 
 My primary research goal is to **build reliable and interpretable AI systems**. Currently, I focus on **AI for time series analysis**, with particular interests in:
 
+- Time series reasoning system
 - Advancing time series forecasting with time series foundation models
 - Multi-modal time series analysis
 - Leveraging Large Language Models (LLMs) for time series forecasting and understanding
-- Graph-based learning for temporal biomedical and healthcare data
+<!-- - Graph-based learning for temporal biomedical and healthcare data -->
 
 If you share similar research interests or would like to collaborate, feel free to reach out. I'm always open to meaningful discussions and potential research opportunities.
 
@@ -22,6 +23,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 
 <i class="fas fa-newspaper"></i> News
 ======
+- 08/2025: I was honored to have been selected as a Fellow in the Entrepreneurship Fellowship Program at UConn, looking forward to the one-year journey!
 - 05/2025: I was honored to receive the Predoctoral Honorable Mention from the School of Computing at UConn!
 - 05/2025: Our tutorial [Multi-modal Time Series Analysis: A Tutorial and Survey](https://arxiv.org/abs/2503.13709) was accepted by [KDD 2025](https://kdd2025.kdd.org/)!
 - 08/2024: I joined [UConn DSIS Lab](https://github.com/UConn-DSIS) and received the UConn CSE Graduate Fellowship.

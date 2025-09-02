@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
+I'm a second-year Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
 
 My primary research goal is to **build reliable and interpretable AI systems**. Currently, I focus on **AI for time series analysis**, with particular interests in:
 

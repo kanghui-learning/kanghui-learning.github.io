@@ -38,8 +38,8 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 (* indicates equal contribution)
 
 - **Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision**
-  **Kanghui Ning**, Zijie Pan, Yushan Jiang, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song
-  ICDM, 2025
+  **Kanghui Ning**, Zijie Pan, Yushan Jiang, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song  
+  ICDM, 2025  
   <i class="fas fa-file-alt"></i> [Paper](https://arxiv.org/abs/2510.16980)
 
 - **TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**  

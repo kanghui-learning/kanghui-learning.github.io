@@ -23,6 +23,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 
 <i class="fas fa-newspaper"></i> News
 ======
+- 10/2025: Our paper [Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision](https://arxiv.org/abs/2510.16980) was accepted by [ICDM 2024 BlueSky track](https://www3.cs.stonybrook.edu/~icdm2025/cfbtp.html)!
 - 09/2025: Our paper [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) was accepted by [NeurIPS 2025](https://neurips.cc/)!
 - 08/2025: I was honored to have been selected as a Fellow in the Entrepreneurship Fellowship Program at UConn, looking forward to the one-year journey!
 - 05/2025: I was honored to receive the Predoctoral Honorable Mention from the School of Computing at UConn!
@@ -36,10 +37,15 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 ======
 (* indicates equal contribution)
 
+- **Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision**
+  **Kanghui Ning**, Zijie Pan, Yushan Jiang, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song
+  ICDM, 2025
+  <i class="fas fa-file-alt"></i> [Paper](https://arxiv.org/abs/2510.16980)
+
 - **TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**  
   **Kanghui Ning**, Zijie Pan, Yu Liu, Yushan Jiang, James Y. Zhang, Kashif Rasul, Anderson Schneider, Lintao Ma, Yuriy Nevmyvaka, Dongjin Song  
   NeurIPS, 2025  
-  <i class="fas fa-file-alt"></i> [Paper](https://arxiv.org/abs/2503.07649)  <i class="fab fa-github"></i> [GitHub coming soon](https://github.com/kanghui-learning)
+  <i class="fas fa-file-alt"></i> [Paper](https://arxiv.org/abs/2503.07649)  <i class="fab fa-github"></i> [GitHub](https://github.com/UConn-DSIS/TS-RAG)
 
 
 - **Multi-modal Time Series Analysis: A Tutorial and Survey**  

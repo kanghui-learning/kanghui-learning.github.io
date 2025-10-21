@@ -23,7 +23,7 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 
 <i class="fas fa-newspaper"></i> News
 ======
-- 10/2025: Our paper [Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision](https://arxiv.org/abs/2510.16980) was accepted by [ICDM 2024 BlueSky track](https://www3.cs.stonybrook.edu/~icdm2025/cfbtp.html)!
+- 10/2025: Our paper [Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision](https://arxiv.org/abs/2510.16980) was accepted by [ICDM 2025 BlueSky track](https://www3.cs.stonybrook.edu/~icdm2025/cfbtp.html)!
 - 09/2025: Our paper [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) was accepted by [NeurIPS 2025](https://neurips.cc/)!
 - 08/2025: I was honored to have been selected as a Fellow in the Entrepreneurship Fellowship Program at UConn, looking forward to the one-year journey!
 - 05/2025: I was honored to receive the Predoctoral Honorable Mention from the School of Computing at UConn!

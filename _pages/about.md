@@ -40,6 +40,11 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 ======
 (* indicates equal contribution)
 
+- **TimeRouter: Efficient and Adaptive Routing of Time-Series Foundation Models**  
+  **Kanghui Ning**, Yushan Jiang, Kashif Rasul, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song  
+  ICML 2026 Workshop on AI Forecasting  
+  <i class="fas fa-file-alt"></i> [Paper](https://arxiv.org/abs/2606.11625)  <i class="fab fa-github"></i> [GitHub](https://github.com/UConn-DSIS/TimeRouter)
+
 - **Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision**  
   **Kanghui Ning**, Zijie Pan, Yushan Jiang, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song  
   ICDM, 2025 (Best BlueSky Paper 3rd)  

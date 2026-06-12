@@ -23,6 +23,9 @@ Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn
 
 <i class="fas fa-newspaper"></i> News
 ======
+- 06/2026: Our paper [TimeRouter: Efficient and Adaptive Routing of Time-Series Foundation Models](https://arxiv.org/abs/2606.11625) was accepted by [ICML 2026 Workshop on AI Forecasting](https://forecasting-workshop.github.io/)!
+- 06/2026: I started my research internship at <img src="/images/morganstanley.png" alt="Morgan Stanley" style="height: 1.2em; vertical-align: middle;"> [Morgan Stanley](https://www.morganstanley.com/) [Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) in New York.
+- 05/2026: I was honored to receive the Predoctoral Fellowship (Platinum) from the School of Computing at UConn!
 - 10/2025: Our paper [Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision](https://arxiv.org/abs/2510.16980) was accepted by the [ICDM 2025 BlueSky track](https://www3.cs.stonybrook.edu/~icdm2025/cfbtp.html), and received the **Best BlueSky Paper Award (3rd place)**!
 - 09/2025: Our paper [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) was accepted by [NeurIPS 2025](https://neurips.cc/)!
 - 08/2025: I was honored to have been selected as a Fellow in the Entrepreneurship Fellowship Program at UConn, looking forward to the one-year journey!

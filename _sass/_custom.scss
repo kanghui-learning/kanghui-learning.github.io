@@ -92,15 +92,13 @@ small.text-muted {
   }
 }
 
-/* Visitor map at the bottom of the homepage */
+/* Visitor map at the bottom of the homepage. The MapMyVisitors widget sizes
+   itself to its parent's width (w=a), so constrain the container itself —
+   styling the injected <a> directly fights the widget's own inline styles. */
 .visitor-map {
-  margin-top: 2.5rem;
+  max-width: 340px;
+  margin: 2.5rem auto 0;
   text-align: center;
-
-  a {
-    display: inline-block;
-    max-width: 320px;
-  }
 }
 
 /* Experience section on the homepage */

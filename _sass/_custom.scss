@@ -43,6 +43,14 @@ b {
   font-weight: 600;
 }
 
+/* Fix dark mode: the theme's .table class hardcodes color #212529, which is
+   unreadable on the dark background (affects the news table dates/text) */
+table.table,
+.table th,
+.table td {
+  color: var(--global-text-color);
+}
+
 /* Muted secondary text, e.g. dates/locations in the experience list */
 small.text-muted {
   color: var(--global-text-color-light);

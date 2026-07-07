@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my research internship at [Morgan Stanley Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) in New York.
+💼 I started my research internship at [Morgan Stanley Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) in New York.

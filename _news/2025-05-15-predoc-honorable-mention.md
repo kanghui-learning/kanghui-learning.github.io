@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was honored to receive the Predoctoral Honorable Mention from the School of Computing at UConn!
+🎓 I was honored to receive the Predoctoral Honorable Mention from the School of Computing at UConn!

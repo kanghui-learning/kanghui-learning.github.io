@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was honored to have been selected as a Fellow in the Entrepreneurship Fellowship Program at UConn, looking forward to the one-year journey!
+🎓 I was honored to have been selected as a Fellow in the Entrepreneurship Fellowship Program at UConn, looking forward to the one-year journey!

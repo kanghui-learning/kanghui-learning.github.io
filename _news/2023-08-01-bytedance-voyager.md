@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I became a part of Corporate Strategy - Project Voyager at [ByteDance](https://www.bytedance.com/) in Beijing, focusing research on AI4Bioinformatics.
+💼 I became a part of Corporate Strategy - Project Voyager at [ByteDance](https://www.bytedance.com/) in Beijing, focusing research on AI4Bioinformatics.

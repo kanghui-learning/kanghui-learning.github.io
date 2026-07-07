@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the [UConn DSIS Lab](https://github.com/UConn-DSIS) and received the UConn CSE Graduate Fellowship.
+🎉 I joined the [UConn DSIS Lab](https://github.com/UConn-DSIS) and received the UConn CSE Graduate Fellowship.

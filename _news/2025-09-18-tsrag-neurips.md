@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) was accepted by [NeurIPS 2025](https://neurips.cc/)!
+📄 Our paper [TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649) was accepted by [NeurIPS 2025](https://neurips.cc/)!

@@ -31,10 +31,30 @@ I'm a second-year Ph.D. student in the School of Computing at the University of 
 
 My primary research goal is to **build reliable and interpretable AI systems**. Currently, I focus on **AI for time series analysis**, with particular interests in:
 
-- Time series reasoning systems
-- Advancing time series forecasting with time series foundation models
-- Multi-modal time series analysis and LLM-empowered time series understanding
+<div class="research-interests">
+  <div class="interest-card">
+    <i class="fa-solid fa-brain"></i>
+    <div>
+      <strong>Time Series Reasoning</strong>
+      <small>interpretable & trustworthy reasoning systems</small>
+    </div>
+  </div>
+  <div class="interest-card">
+    <i class="fa-solid fa-chart-line"></i>
+    <div>
+      <strong>Time Series Foundation Models</strong>
+      <small>forecasting, retrieval augmentation, model routing</small>
+    </div>
+  </div>
+  <div class="interest-card">
+    <i class="fa-solid fa-layer-group"></i>
+    <div>
+      <strong>Multi-modal Time Series</strong>
+      <small>LLM-empowered analysis & understanding</small>
+    </div>
+  </div>
+</div>
 
 Previously, I obtained my bachelor's degree from [UESTC](https://en.uestc.edu.cn/) and my master's degree from [HUST](http://english.hust.edu.cn/).
 
-If you share similar research interests or would like to collaborate, feel free to reach out at [kanghui.ning@uconn.edu](mailto:kanghui.ning@uconn.edu). I'm always open to meaningful discussions and potential research opportunities.
+If you share similar research interests or would like to collaborate, feel free to reach out at [kanghui.ning@uconn.edu](mailto:kanghui.ning@uconn.edu) — I'm always open to discussions and potential collaborations.

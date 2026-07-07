@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my research internship at the Applied Machine Learning - AI4Science Group of [ByteDance](https://www.bytedance.com/) in Beijing.
+💼 I started my research internship at the Applied Machine Learning - AI4Science Group of [ByteDance](https://www.bytedance.com/) in Beijing.

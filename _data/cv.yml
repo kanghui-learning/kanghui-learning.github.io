@@ -1,0 +1,129 @@
+cv:
+  name: Kanghui Ning
+  label: Ph.D. Student in Computer Science
+  email: kanghui.ning@uconn.edu
+  location: Storrs, CT
+  image: ""
+  summary: Ph.D. student at the University of Connecticut working on AI for time series analysis — time series reasoning, foundation models, and multi-modal time series understanding.
+
+  social_networks:
+    - network: GitHub
+      username: kanghui-learning
+    - network: LinkedIn
+      username: kanghui-ning-ab9419244
+
+  sections:
+    Education:
+      - institution: University of Connecticut
+        location: Storrs, CT, USA
+        url: https://uconn.edu/
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2024
+        end_date: present
+        highlights:
+          - "Advisor: Prof. Dongjin Song (DSIS Lab)"
+          - "Research: AI for time series analysis"
+
+      - institution: Huazhong University of Science and Technology (HUST)
+        location: Wuhan, China
+        url: http://english.hust.edu.cn/
+        area: Control Science and Engineering
+        studyType: M.S.
+        start_date: 2020
+        end_date: 2024
+
+      - institution: University of Electronic Science and Technology of China (UESTC)
+        location: Chengdu, China
+        url: https://en.uestc.edu.cn/
+        area: Automation
+        studyType: B.S.
+        start_date: 2016
+        end_date: 2020
+
+    Experience:
+      - company: Morgan Stanley
+        position: Research Intern, Machine Learning Research
+        location: New York, NY, USA
+        start_date: 2026-06-01
+        end_date: present
+        summary: Research on machine learning for time series.
+
+      - company: University of Connecticut
+        position: Research Assistant, DSIS Lab
+        location: Storrs, CT, USA
+        start_date: 2024-08-01
+        end_date: present
+        summary: Research on time series analysis with foundation models and LLMs.
+
+      - company: Ant Group
+        position: Research Intern
+        location: Hangzhou, China
+        start_date: 2024-05-01
+        end_date: 2024-08-01
+        summary: Research on time series analysis.
+
+      - company: ByteDance
+        position: Research Intern, Corporate Strategy — Project Voyager
+        location: Beijing, China
+        start_date: 2023-08-01
+        end_date: 2023-12-01
+        summary: Research on AI for bioinformatics.
+
+      - company: ByteDance
+        position: Research Intern, Applied Machine Learning — AI4Science Group
+        location: Beijing, China
+        start_date: 2022-07-01
+        end_date: 2023-08-01
+        summary: Research on AI for science.
+
+    Awards:
+      - title: Best BlueSky Paper Award (3rd Place)
+        date: 2025-11-01
+        awarder: IEEE ICDM 2025
+        summary: 'For "Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision".'
+
+      - title: Predoctoral Fellowship (Platinum)
+        date: 2026-05-01
+        awarder: School of Computing, University of Connecticut
+
+      - title: Entrepreneurship Fellowship Program Fellow
+        date: 2025-08-01
+        awarder: University of Connecticut
+
+      - title: Predoctoral Honorable Mention
+        date: 2025-05-01
+        awarder: School of Computing, University of Connecticut
+
+      - title: CSE Graduate Fellowship
+        date: 2024-08-01
+        awarder: University of Connecticut
+
+    Publications:
+      - title: "TimeRouter: Efficient and Adaptive Routing of Time-Series Foundation Models"
+        authors:
+          - Kanghui Ning, Yushan Jiang, Kashif Rasul, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song
+        publisher: ICML 2026 Workshop on AI Forecasting
+        releaseDate: 2026-06-15
+        url: https://arxiv.org/abs/2606.11625
+
+      - title: "Towards Interpretable and Trustworthy Time Series Reasoning: A BlueSky Vision"
+        authors:
+          - Kanghui Ning, Zijie Pan, Yushan Jiang, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song
+        publisher: IEEE ICDM 2025, BlueSky Track (Best BlueSky Paper Award, 3rd Place)
+        releaseDate: 2025-10-01
+        url: https://arxiv.org/abs/2510.16980
+
+      - title: "TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster"
+        authors:
+          - Kanghui Ning, Zijie Pan, Yu Liu, Yushan Jiang, James Y. Zhang, Kashif Rasul, Anderson Schneider, Lintao Ma, Yuriy Nevmyvaka, Dongjin Song
+        publisher: NeurIPS 2025
+        releaseDate: 2025-09-18
+        url: https://arxiv.org/abs/2503.07649
+
+      - title: "Multi-modal Time Series Analysis: A Tutorial and Survey"
+        authors:
+          - Yushan Jiang*, Kanghui Ning*, Zijie Pan*, Xuyang Shen, Jingchao Ni, Wenchao Yu, Anderson Schneider, Haifeng Chen, Yuriy Nevmyvaka, Dongjin Song (* equal contribution)
+        publisher: KDD 2025
+        releaseDate: 2025-05-01
+        url: https://arxiv.org/abs/2503.13709

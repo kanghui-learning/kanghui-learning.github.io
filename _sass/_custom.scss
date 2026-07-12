@@ -11,12 +11,12 @@
  * purple. To change it, uncomment the two rules below and set your colors —
  * first for light mode, second for dark mode.
  * ------------------------------------------------------------------------- */
-// :root {
-//   --global-theme-color: #0e4c92; /* light mode accent */
-// }
-// :root[data-theme="dark"] {
-//   --global-theme-color: #6d9eeb; /* dark mode accent */
-// }
+:root {
+  --global-theme-color: #1f4e79; /* Prussian blue, light mode accent */
+}
+:root[data-theme="dark"] {
+  --global-theme-color: #7fb0e0; /* lighter Prussian blue for dark mode */
+}
 
 body {
   font-weight: 400;

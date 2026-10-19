@@ -1,10 +1,10 @@
 cv:
   name: Kanghui Ning
-  label: Ph.D. Student in Computer Science
+  label: Ph.D. Candidate in Computer Science
   email: kanghui.ning@uconn.edu
   location: Storrs, CT
   image: ""
-  summary: Ph.D. student at the University of Connecticut building intelligent forecasting systems — foundation model pretraining, multimodal learning, and advanced inference strategies.
+  summary: Ph.D. candidate at the University of Connecticut building intelligent forecasting systems — foundation model pretraining, multimodal learning, and advanced inference strategies.
 
   social_networks:
     - network: GitHub

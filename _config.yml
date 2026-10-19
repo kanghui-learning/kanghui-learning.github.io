@@ -8,7 +8,7 @@ middle_name:
 last_name: Ning
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Kanghui Ning's academic website. Ph.D. Student in Computer Science at University of Connecticut, focusing on machine learning, time series analysis, and AI research.
+  Kanghui Ning's academic website. Ph.D. Candidate in Computer Science at University of Connecticut, focusing on machine learning, time series analysis, and AI research.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

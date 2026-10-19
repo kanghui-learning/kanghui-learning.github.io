@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Computer Science, <a href='https://uconn.edu/'>University of Connecticut</a>
+subtitle: Ph.D. Candidate in Computer Science, <a href='https://uconn.edu/'>University of Connecticut</a>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a third-year Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
+I'm a third-year Ph.D. candidate in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
 
 My research focuses on **building intelligent forecasting systems for real-world applications**, with particular interests in:
 

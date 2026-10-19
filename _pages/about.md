@@ -50,7 +50,7 @@ My research focuses on **building intelligent forecasting systems for real-world
     <i class="fa-solid fa-layer-group"></i>
     <div>
       <strong>Multi-modal Time Series</strong>
-      <small>LLM-empowered multimodal learning for time series analysis & understanding</small>
+      <small>LLM-empowered multimodal learning for time series analysis</small>
     </div>
   </div>
   <div class="interest-card">

@@ -43,7 +43,7 @@ My research focuses on **building intelligent forecasting systems for real-world
     <i class="fa-solid fa-bolt"></i>
     <div>
       <strong>Advanced Inference Strategies</strong>
-      <small>retrieval augmentation, test-time computation & adaptive model selection</small>
+      <small>retrieval augmentation & test-time computation</small>
     </div>
   </div>
   <div class="interest-card">

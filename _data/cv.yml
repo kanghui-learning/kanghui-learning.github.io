@@ -4,7 +4,7 @@ cv:
   email: kanghui.ning@uconn.edu
   location: Storrs, CT
   image: ""
-  summary: Ph.D. student at the University of Connecticut working on AI for time series analysis — time series reasoning, foundation models, and multi-modal time series understanding.
+  summary: Ph.D. student at the University of Connecticut building intelligent forecasting systems — foundation model pretraining, multimodal learning, and advanced inference strategies.
 
   social_networks:
     - network: GitHub
@@ -46,8 +46,8 @@ cv:
         position: Research Intern, Machine Learning Research
         location: New York, NY, USA
         start_date: 2026-06-01
-        end_date: present
-        summary: Research on machine learning for time series.
+        end_date: 2026-08-31
+        summary: Research on test-time compute for tabular foundation models.
 
       - company: University of Connecticut
         position: Research Assistant, DSIS Lab
@@ -100,6 +100,25 @@ cv:
         awarder: University of Connecticut
 
     Publications:
+      - title: "The Arbitration Gap Is Mostly Noise: On Complementary Expertise in TSFMs"
+        authors:
+          - Kashif Rasul, Kanghui Ning, Anderson Schneider, Yuriy Nevmyvaka
+        publisher: NeurIPS 2026 Workshop on Foundation Models for Temporal Systems (FMTS)
+        releaseDate: 2026-10-15
+
+      - title: "SWAFT: Sink-Augmented Sliding Windows for Time-Series Foundation Models"
+        authors:
+          - Kashif Rasul, Kanghui Ning, A. März, A. Mitra, Anderson Schneider, Yuriy Nevmyvaka
+        publisher: NeurIPS 2026 Workshop on Foundation Models for Temporal Systems (FMTS)
+        releaseDate: 2026-10-15
+
+      - title: "Test-Time Compute for Tabular Foundation Models: Mechanisms, Gains, and Limits"
+        authors:
+          - Kanghui Ning, Marin Biloš, James T. Wilson, Y. Zhang, Kashif Rasul, Dongjin Song, Anderson Schneider, Yuriy Nevmyvaka
+        publisher: arXiv preprint
+        releaseDate: 2026-10-01
+        url: https://arxiv.org/abs/2610.12005
+
       - title: "TimeRouter: Efficient and Adaptive Routing of Time-Series Foundation Models"
         authors:
           - Kanghui Ning, Yushan Jiang, Kashif Rasul, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song

@@ -27,30 +27,37 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second-year Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/). Currently, I am a research intern at [Morgan Stanley Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) in New York.
+I'm a third-year Ph.D. student in the School of Computing at the University of Connecticut (UConn), under the supervision of Professor [Dongjin Song](https://songdj.github.io/).
 
-My primary research goal is to **build reliable and interpretable AI systems**. Currently, I focus on **AI for time series analysis**, with particular interests in:
+My research focuses on **building intelligent forecasting systems for real-world applications**, with particular interests in:
 
 <div class="research-interests">
   <div class="interest-card">
-    <i class="fa-solid fa-brain"></i>
+    <i class="fa-solid fa-chart-line"></i>
     <div>
-      <strong>Time Series Reasoning</strong>
-      <small>interpretable & trustworthy reasoning systems</small>
+      <strong>Foundation Model Pretraining</strong>
+      <small>data composition, synthetic data & training strategies for time-series foundation models</small>
     </div>
   </div>
   <div class="interest-card">
-    <i class="fa-solid fa-chart-line"></i>
+    <i class="fa-solid fa-bolt"></i>
     <div>
-      <strong>Time Series Foundation Models</strong>
-      <small>forecasting, retrieval augmentation, model routing</small>
+      <strong>Advanced Inference Strategies</strong>
+      <small>retrieval augmentation, test-time computation & adaptive model selection</small>
     </div>
   </div>
   <div class="interest-card">
     <i class="fa-solid fa-layer-group"></i>
     <div>
       <strong>Multi-modal Time Series</strong>
-      <small>LLM-empowered analysis & understanding</small>
+      <small>LLM-empowered multimodal learning for time series analysis & understanding</small>
+    </div>
+  </div>
+  <div class="interest-card">
+    <i class="fa-solid fa-robot"></i>
+    <div>
+      <strong>Agentic Forecasting</strong>
+      <small>leveraging external information & analytical tools for real-world forecasting tasks</small>
     </div>
   </div>
 </div>
